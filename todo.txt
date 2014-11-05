@@ -1,0 +1,9 @@
+todo:
+github repo
+pull from git on memcached box
+test ip access
+
+
+add login screen
+broadcast with nicks
+*is typing message above text input
